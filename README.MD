@@ -13,3 +13,4 @@ This repository contains solutions from exercises given in the Eloquent JavaScri
 * **CHAPTER 6** - [The Secret Life of Objects](https://github.com/st33ze/eloquentJS/tree/master/chapter_6)
 * **CHAPTER 7** - [Project: A Robot](https://github.com/st33ze/eloquentJS/tree/master/chapter_7)
 * **CHAPTER 8** - [Bugs and Errors](https://github.com/st33ze/eloquentJS/tree/master/chapter_8)
+* **CHAPTER 9** - [Regular Expressions](https://github.com/st33ze/eloquentJS/tree/master/chapter_9)

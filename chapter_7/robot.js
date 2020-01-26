@@ -1,4 +1,6 @@
-// Our project in this chapter is to build an automaton, a little program that performs a task in a virtual world. Our automaton will be a mail-delivery robot picking up and dropping off parcels.
+/* Our project in this chapter is to build an automaton, a little program that performs a
+task in a virtual world. Our automaton will be a mail-delivery robot picking up and
+dropping off parcels. */
 
 const roads = [
     "Alice's House-Bob's House", "Alice's House-Cabin", "Alice's House-Post Office",

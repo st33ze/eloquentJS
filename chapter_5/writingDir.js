@@ -2,9 +2,10 @@
 text. Remember that each script object has a direction property that can be
 "ltr" (left to right), "rtl" (right to left), or "ttb" (top to bottom).
 The dominant direction is the direction of a majority of the characters that
-have a script associated with them. */
+have a script associated with them. 
 
-// Generated from the Unicode 10 database and https://en.wikipedia.org/wiki/Script_(Unicode)
+Generated from the Unicode 10 database and https://en.wikipedia.org/wiki/Script_(Unicode)
+*/
 
 var SCRIPTS = [
     {
