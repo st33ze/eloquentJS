@@ -14,3 +14,5 @@ This repository contains solutions from exercises given in the Eloquent JavaScri
 * **CHAPTER 7** - [Project: A Robot](https://github.com/st33ze/eloquentJS/tree/master/chapter_7)
 * **CHAPTER 8** - [Bugs and Errors](https://github.com/st33ze/eloquentJS/tree/master/chapter_8)
 * **CHAPTER 9** - [Regular Expressions](https://github.com/st33ze/eloquentJS/tree/master/chapter_9)
+* **CHAPTER 10** - [Modules](https://github.com/st33ze/eloquentJS/tree/master/chapter_10)
+* **CHAPTER 11** - [Asynchronous Programming](https://github.com/st33ze/eloquentJS/tree/master/chapter_11)
