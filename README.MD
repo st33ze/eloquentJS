@@ -16,3 +16,4 @@ This repository contains solutions from exercises given in the Eloquent JavaScri
 * **CHAPTER 9** - [Regular Expressions](https://github.com/st33ze/eloquentJS/tree/master/chapter_9)
 * **CHAPTER 10** - [Modules](https://github.com/st33ze/eloquentJS/tree/master/chapter_10)
 * **CHAPTER 11** - [Asynchronous Programming](https://github.com/st33ze/eloquentJS/tree/master/chapter_11)
+* **CHAPTER 12** - [Project: A programming language](https://github.com/st33ze/eloquentJS/tree/master/chapter_12)
