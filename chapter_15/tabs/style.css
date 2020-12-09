@@ -1,0 +1,38 @@
+tab-panel {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: rgba(208, 249, 237, 1);
+    color:rgb(20, 53, 44);
+    border-radius: 0px 0px 10px 10px;
+    height: 250px;
+    width: 400px;
+}
+
+.menu {
+    width: 400px;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(36, 97, 80);
+    border-radius: 10px 10px 0 0;    
+}
+
+.menu-button {
+    width: 100px;
+    height: 30px;
+    margin-top: 20px;
+    border-radius: 5px 5px 0 0;
+    background-color: rgb(36, 97, 80);
+    color: rgb(208, 249, 237);
+    outline: none;
+    border: none;
+    cursor: pointer;
+    letter-spacing: 2px;
+}
+
+
+.menu-button--active {
+    background-color: rgb(208, 249, 237);
+    color: rgb(20, 53, 44);
+}

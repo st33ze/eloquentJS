@@ -18,3 +18,4 @@ This repository contains solutions of exercises given in the Eloquent JavaScript
 * **CHAPTER 11** - [Asynchronous Programming](https://github.com/st33ze/eloquentJS/tree/master/chapter_11)
 * **CHAPTER 12** - [Project: A programming language](https://github.com/st33ze/eloquentJS/tree/master/chapter_12)
 * **CHAPTER 14** - [The Document Object Model](https://github.com/st33ze/eloquentJS/tree/master/chapter_14)
+* **CHAPTER 15** - [Handling Events](https://github.com/st33ze/eloquentJS/tree/master/chapter_15)
