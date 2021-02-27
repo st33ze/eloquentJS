@@ -19,3 +19,5 @@ This repository contains solutions of exercises given in the Eloquent JavaScript
 * **CHAPTER 12** - [Project: A programming language](https://github.com/st33ze/eloquentJS/tree/master/chapter_12)
 * **CHAPTER 14** - [The Document Object Model](https://github.com/st33ze/eloquentJS/tree/master/chapter_14)
 * **CHAPTER 15** - [Handling Events](https://github.com/st33ze/eloquentJS/tree/master/chapter_15)
+* **CHAPTER 16** - [Project: A Platform Game](https://github.com/st33ze/eloquentJS/tree/master/chapter_16)
+* **CHAPTER 17** - [Drawing on Canvas](https://github.com/st33ze/eloquentJS/tree/master/chapter_17)
