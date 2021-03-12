@@ -1,0 +1,34 @@
+* {
+margin: 0;
+padding: 0;
+}
+
+#game {
+    margin: 5px;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+#grid {
+    display: grid;
+    justify-items: center;
+    row-gap: 2px;
+    column-gap: 2px;
+    border: 1px solid rgb(165, 164, 164);
+    border-radius: 2px;
+    padding: 2px;
+}
+
+#next {
+    border-style: none;
+    outline: none;
+    cursor: pointer;
+    background-color: rgb(225, 225, 225);
+    padding: 5px 10px;
+    border: 1px solid rgb(165, 164, 164);
+    border-top: none;
+}
+
+#next:hover {
+    background-color: rgb(195, 195, 195);
+}
