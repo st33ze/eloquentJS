@@ -22,3 +22,4 @@ This repository contains solutions of exercises given in the Eloquent JavaScript
 * **CHAPTER 16** - [Project: A Platform Game](https://github.com/st33ze/eloquentJS/tree/master/chapter_16)
 * **CHAPTER 17** - [Drawing on Canvas](https://github.com/st33ze/eloquentJS/tree/master/chapter_17)
 * **CHAPTER 18** - [HTTP and Forms](https://github.com/st33ze/eloquentJS/tree/master/chapter_18)
+* **CHAPTER 19** - [Project: A Pixel Art Editor](https://github.com/st33ze/eloquentJS/tree/master/chapter_19)
